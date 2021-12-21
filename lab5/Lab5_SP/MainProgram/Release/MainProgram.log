@@ -1,0 +1,106 @@
+﻿  dllMain.cpp
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,6): error C2018: unknown character '0x3'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,10): error C2018: unknown character '0x4'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,29): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,66): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,69): error C2018: unknown character '0xe'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,70): error C2018: unknown character '0x1f'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,71): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,14): error C2146: syntax error: missing ';' before identifier 'яяё'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,73): error C2018: unknown character '0xe'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(1,83): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,10): error C3872: '0xb0': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,51): error C2018: unknown character '0x1f'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,65): error C2018: unknown character '0x1f'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,79): error C2018: unknown character '0x1f'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,93): error C2018: unknown character '0x1f'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,226): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,227): error C2018: unknown character '0x5'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,230): error C2018: unknown character '0x12'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,233): error C2143: syntax error: missing ';' before ']'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,233): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,245): error C2018: unknown character '0x2'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,248): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,249): error C2018: unknown character '0xe'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,250): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,252): error C2018: unknown character '0x12'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,256): error C2018: unknown character '0x14'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,263): error C2018: unknown character '0x19'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,264): error C2018: unknown character '0x17'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,268): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,272): error C2059: syntax error: 'bad suffix on number'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,278): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,280): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,284): error C2018: unknown character '0x2'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,287): error C2018: unknown character '0x6'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,295): error C2018: unknown character '0x6'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,315): error C2018: unknown character '0x2'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,317): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,318): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,321): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,324): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,329): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,332): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,339): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,369): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,389): error C2018: unknown character '0x60'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,394): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,397): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,398): error C2059: syntax error: 'bad suffix on number'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,429): error C3873: '0xb0': this character is not allowed as a first character of an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,434): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,447): error C2059: syntax error: 'bad suffix on number'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,447): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,489): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,493): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,497): error C2018: unknown character '0x12'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,501): error C2018: unknown character '0x4'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,519): error C2018: unknown character '0x60'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,534): error C2059: syntax error: 'bad suffix on number'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,542): error C2018: unknown character '0x16'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,557): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,560): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,571): error C2018: unknown character '0x3'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,575): error C2018: unknown character '0x40'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,579): error C2018: unknown character '0x2'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(2,583): error C2001: newline in constant
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,2): error C2059: syntax error: '}'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,3): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,9): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,12): error C2018: unknown character '0xf'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,14): error C2018: unknown character '0x5'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,19): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,20): error C3872: '0x201e': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,20): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,33): error C2017: illegal escape sequence
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,34): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,37): error C3872: '0x201e': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,37): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,44): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,51): error C2018: unknown character '0xf'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,52): error C3872: '0x201e': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,52): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,58): error C2017: illegal escape sequence
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,59): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,62): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,65): error C2018: unknown character '0xf'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,73): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,78): error C3872: '0x201e': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,78): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,86): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,91): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,104): error C3872: '0x201e': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,104): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,111): error C2018: unknown character '0x1'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,114): error C3872: '0x2039': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,127): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,128): error C3873: '0x2030': this character is not allowed as a first character of an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,128): error C3872: '0x4': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,138): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,139): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,143): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,144): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,155): error C2018: unknown character '0x10'
+C:\Users\Andrey\Desktop\Лабораторная работа №5\Lab5_SP\MainProgram\Functional.dll(3,155): fatal error C1003: error count exceeds 100; stopping compilation

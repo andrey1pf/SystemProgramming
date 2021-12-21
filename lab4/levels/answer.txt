@@ -1,0 +1,44 @@
+level1.exe "qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
+char overflow when strlen > 255
+
+
+level2.exe "4294967294" "1" 2"
+unsigned int overflow
+strtol cast 
+
+level3.exe "-1"
+atoi casts string to integer, when atoi returns -1 there is unsigned int overflow
+
+level4.exe "4294967294"
+unsigned_int_max - 1 + 2 == 0
+
+
+level5.exe
+qwertyuiopasdfghj
+static char array overflow on stack leads to changing of a char???
+
+level6.exe "WinSxS\wow64_microsoft-windows-commandprompt_31bf3856ad364e35_10.0.19041.746_none_735abbdbad8c902f"
+when we enter path with existing cmd.exe file, CreateFile returns INVALID_HANDLE_VALUE
+
+level7.exe "qqqqqqqqqqqqqqqq"
+hex of '\0' equals to 0x00, when we enter 16 chars '\0' moves to the next address on stack, changes last byte of b
+
+level8.exe "%x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x %x"
+20th hex contains value of i, 21st - value of t
+
+
+level9 11111 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+Due to the fact that memory on the stack is allocated sequentially, we can fill password so that there is no null terminator in it, only significant characters. In this case, the function goes through the cells up to the first null terminator, which is only in login. If there are more than 4 characters in login, then we will overwrite i (each operation occupies a cell on the stack)
+
+E:\programming\system-programming\lab_4\levels\level10.exe
+Full path to exe file has length more than 16
+
+
+level11.exe qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq1234DCBA
+First 80 symbols to fill buf, next 4 to fill unsigned int saved_ebp(4 bytes) and last 4 to change saved_eip. 0x41424344 in binary form is 01000001 01000010 01000011 01000100 ==
+65 66 67 68 == A B C D (in ascii). We reverse it, because high byte is the last.
+
+
+level12.exe qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq1234^O^P@
+Every time program oitput the hex of our "unreachable" function address. Stack for this program contains buf(80 bytes), agrs pointer(4 bytes), than it goes the address of return value in the and of program, we need to rewrite it to the address of our fucntion.
+0x40100f is 01000000 00010000 00001111 in bynary form. So that we need to input ^O^P@ in the end of the string. 

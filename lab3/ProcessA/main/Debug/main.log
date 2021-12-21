@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Andrey\Desktop\SP\lab3\ProcessA\main\main.cpp(17,12): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [260]' to 'const char *'
+C:\Users\Andrey\Desktop\SP\lab3\ProcessA\main\main.cpp(17,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(100,13): message : see declaration of 'strcmp'
+C:\Users\Andrey\Desktop\SP\lab3\ProcessA\main\main.cpp(32,18): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'LPCSTR' to 'LPCWSTR'
+C:\Users\Andrey\Desktop\SP\lab3\ProcessA\main\main.cpp(33,9): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : see declaration of 'CreateFileW'

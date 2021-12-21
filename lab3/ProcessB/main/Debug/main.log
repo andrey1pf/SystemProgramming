@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Andrey\Desktop\SP\lab3\ProcessB\main\main.cpp(7,18): error C2664: 'HANDLE CreateNamedPipeW(LPCWSTR,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPSECURITY_ATTRIBUTES)': cannot convert argument 1 from 'LPCSTR' to 'LPCWSTR'
+C:\Users\Andrey\Desktop\SP\lab3\ProcessB\main\main.cpp(8,9): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\namedpipeapi.h(104,1): message : see declaration of 'CreateNamedPipeW'
